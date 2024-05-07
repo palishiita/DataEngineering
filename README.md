@@ -1,6 +1,9 @@
 # DataEngineering
 Data Warehouse and Business Intelligence Labs
 
+** IDEs: Azure Studio, MS SQL Server Management Studio (SSMS), PowerBI, DAX Studio, Visual Studio
+
+
 - Lab1: SQL Queries and Data Modelling
 - Lab2: SQL Pivot Tables
 - Lab3: PIVOT, CASE, GROUP, VIEW in SQL
