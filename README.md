@@ -1,7 +1,7 @@
 # DataEngineering
 Data Warehouse and Business Intelligence Labs
 
-IDEs: Azure Studio, MS SQL Server Management Studio (SSMS), PowerBI, DAX Studio, Visual Studio
+IDEs: Azure Studio, MS SQL Server Management Studio (SSMS), PowerBI, DAX Studio, Visual Studio (for SSIS)
 
 
 - Lab1: SQL Queries and Data Modelling
